@@ -1,2 +1,1 @@
-# leetcode-training
-leetcode training
+在这里记录一下刷题的心得，另外一些琐碎的知识点可能也会放在这里
